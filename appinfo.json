@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jonathan.kunze@gmail.com",
+    "longName": "AttitudeIndicator",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/AttitudeIndicator.png",
+                "name": "IMAGE_BEZEL",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "AttitudeIndicator",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "2b481b04-224d-4486-8285-e87a20dc678a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
